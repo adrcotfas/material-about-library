@@ -17,8 +17,6 @@
     android:paddingRight="@dimen/mal_baseline_half"
     android:paddingStart="@dimen/mal_baseline_half"
     android:paddingTop="@dimen/mal_baseline"
-    app:strokeWidth="1dp"
-    app:cardElevation="0dp"
     >
 
     <LinearLayout
